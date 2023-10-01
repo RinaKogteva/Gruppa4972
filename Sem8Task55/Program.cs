@@ -60,7 +60,7 @@
 // TransonationMatrix(array2D);
 // Print2DArray(array2D);
 
-Пример 2 
+// Пример 2 
 
 // Вывод сообщения и запись введённых данных
 int Prompt(string message)
