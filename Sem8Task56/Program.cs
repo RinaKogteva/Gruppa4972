@@ -66,3 +66,4 @@ Console.WriteLine();
 int[] arr = GetArray(matrix);
 Console.WriteLine(string.Join(", ", arr));
 MinIndex(matrix, arr);
+

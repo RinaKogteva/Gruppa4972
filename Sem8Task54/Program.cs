@@ -8,6 +8,8 @@
 // 9 5 3 2
 // 8 4 4 2
 
+
+
 int SetNumber(string message)
 {
     System.Console.Write($"Enter number {message}: ");
